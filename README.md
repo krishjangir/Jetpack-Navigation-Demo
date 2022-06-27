@@ -4,6 +4,6 @@
 3. Animation - Splash Screen
 4. Constraint Layout - Login Screen
 5. Navigation - Jetpack - Navigation 
--> Handling navigation
--> Pass data from one fragment to another
--> Get args using safeArgs
+\n-> Handling navigation
+\n-> Pass data from one fragment to another
+\n-> Get args using safeArgs
