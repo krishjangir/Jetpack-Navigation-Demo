@@ -37,6 +37,7 @@ android {
     buildFeatures {
         // for dataBinding:
         dataBinding true
+        viewBinding true
     }
 }
 
@@ -62,5 +63,7 @@ dependencies {
 
     /*--------- Multi dex dependencies----------*/
     implementation 'com.android.support:multidex:1.0.3'
+    implementation("androidx.leanback:leanback:1.2.0-alpha02")
+
 
 }
